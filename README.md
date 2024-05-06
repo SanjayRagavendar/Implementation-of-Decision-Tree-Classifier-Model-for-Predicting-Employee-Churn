@@ -73,41 +73,24 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/3f51738f-2f17-447d-bfc1-39d77cd4b552)
 
-Displaying the head of the dataset
+![Screenshot 2024-04-06 202922](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/3b6d1584-564f-4ff4-92e1-9e72a4bfd271)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/d3430e04-f0c7-40a6-85e6-4947ee772aa3)
+![Screenshot 2024-04-06 202927](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/6fd24494-3daa-4454-b74d-4705f541bc06)
 
-Showing the information about the dataset
+![Screenshot 2024-04-06 202931](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/0bbc04b9-2b96-477b-bad1-d910d204480e)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/25173940-80b0-469d-bdc1-b70b1cf4b08b)
+![Screenshot 2024-04-06 202936](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/07ba789e-e175-4018-bfd2-548037bbb6ba)
 
-Printing null values in the dataset
+![Screenshot 2024-04-06 202941](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/fbd2b025-c2e6-42fa-9cfa-a62d95e04829)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/ace51178-288a-446b-a72c-54b1d6f86646)
+![Screenshot 2024-04-06 202946](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/e6eebae1-b13f-4a4d-8552-2af070534275)
 
-Value counts of the 'left' column
+![Screenshot 2024-04-06 202950](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/36a73dd2-3b0e-4111-9cca-a92defe90f1d)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/5bc42d5a-20e2-4615-92d4-0ea565350605)
+![Screenshot 2024-04-06 202956](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/5226bebe-5fc8-462c-b235-aafed67fc98f)
 
-Label encoding the values of the salary column
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/acdc3d89-f6ce-496c-877e-0b24533bfa19)
-
-Spliting the columns for getting input and output
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/0018c2a7-1865-40fa-b475-a7ef66ab1ebf)
-
-Creating a Decision Tree Classifier
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/f95b7db4-0466-4dba-8baf-2aab8da853d6)
-
-Finding the accuracy for the test data
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/91368803/a3db2839-d644-4edf-b002-d0bb1b2bf0f9)
-
-Testing the model
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
